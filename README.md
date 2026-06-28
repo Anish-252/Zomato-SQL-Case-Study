@@ -144,8 +144,8 @@ zomato-business-analysis-postgresql/
 │
 ├── SQL/
 │   ├── schema.sql
-│   ├── data_insertion.sql
-│   └── business_analysis.sql
+│   ├── eda.sql
+│   └── analysis.sql
 │
 ├── ER_Diagram/
 │   └── er_diagram.png
